@@ -18,7 +18,7 @@ export default [
   {
     title: 'Wasm experiments',
     description: 'Some of my experiments with compiling c code to webassembly. ',
-    tech: ['clang', 'wasm'],
+    tech: ['clang', 'wasm', 'c'],
     github: 'https://github.com/ZS-247/wasm-experiments',
     demo: 'https://zs-247.github.io/wasm-experiments/',
   },
